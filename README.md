@@ -2,7 +2,7 @@
 
 This project simulates real-time stock market data using Python, Kafka, and AWS services. It demonstrates a complete data pipeline — from data simulation to querying through Amazon Athena.
 
-![Architecture](./Architrcture.png)
+![Architecture](./Architecture.jpg)
 
 ## 🔧 Tech Stack
 
